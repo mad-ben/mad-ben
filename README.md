@@ -6,5 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mad-ben&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
 - Contact: andriy.kalysh@gmail.com
