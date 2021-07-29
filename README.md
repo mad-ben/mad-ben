@@ -4,4 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mad-ben&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mad-ben&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - Contact: andriy.kalysh@gmail.com
